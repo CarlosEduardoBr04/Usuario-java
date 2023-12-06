@@ -24,6 +24,9 @@ Clone this repository to incorporate the `Usuario` class into your Java project.
 
 Contributions are welcome! Feel free to suggest improvements, report issues, or submit pull requests to enhance this project.
 
+👨‍💻 Author
+[CarlosEduardoBr4](https://github.com/CarlosEduardoBr04) 🚀
+
 ### License 📜
 
 This project is under the MIT License. Refer to the [LICENSE](LICENSE) file for more details.
