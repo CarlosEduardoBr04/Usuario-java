@@ -1,29 +1,29 @@
-## Projeto Usuario Class em Java 🚀
+## Java User Class Project 🚀
 
-### Descrição 📝
+### Description 📝
 
-Este projeto é a implementação de uma classe Java chamada `Usuario`, desenvolvida para representar as informações de um usuário, como nome, login e senha.
+This project is the implementation of a Java class called `Usuario`, designed to represent user information such as name, login, and password.
 
-### Funcionalidades Principais 🛠️
+### Key Features 🛠️
 
-- **Construtores:**
-  - `public Usuario()`: Inicializa um objeto `Usuario` com valores vazios para nome, login e senha.
-  - `public Usuario(String nome, String login, String senha)`: Permite a criação de um objeto `Usuario` com valores específicos.
+- **Constructors:**
+  - `public Usuario()`: Initializes a `Usuario` object with empty values for name, login, and password.
+  - `public Usuario(String nome, String login, String senha)`: Allows the creation of a `Usuario` object with specific values.
 
-- **Encapsulamento:**
-  - Métodos getter e setter para acessar e modificar os atributos (nome, login, senha).
+- **Encapsulation:**
+  - Getter and setter methods to access and modify attributes (name, login, password).
 
-- **Método `Mensagem`:**
-  - `public void Mensagem()`: Exibe uma mensagem com os valores atuais dos atributos.
+- **`Mensagem` Method:**
+  - `public void Mensagem()`: Displays a message with the current attribute values.
 
-### Utilização 🚀
+### Usage 🚀
 
-Clone este repositório para incorporar a classe `Usuario` em seu projeto Java. Utilize os construtores e métodos encapsulados para gerenciar informações de usuários de forma eficiente.
+Clone this repository to incorporate the `Usuario` class into your Java project. Use the encapsulated constructors and methods to efficiently manage user information.
 
-### Contribuições 🤝
+### Contributions 🤝
 
-Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, relatar problemas ou enviar pull requests para aprimorar este projeto.
+Contributions are welcome! Feel free to suggest improvements, report issues, or submit pull requests to enhance this project.
 
-### Licença 📜
+### License 📜
 
-Este projeto está sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+This project is under the MIT License. Refer to the [LICENSE](LICENSE) file for more details.
