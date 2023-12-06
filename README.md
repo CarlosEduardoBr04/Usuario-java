@@ -2,7 +2,7 @@
 
 ### Description 📝
 
-This project is the implementation of a Java class called `Usuario`, designed to represent user information such as name, login, and password.
+This project is a practical exercise, serving as a personal challenge to test and apply my Java knowledge. It involves the implementation of a Java class named `Usuario` designed to represent user information, including name, login, and password.
 
 ### Key Features 🛠️
 
